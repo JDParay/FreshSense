@@ -83,8 +83,8 @@ h1 b {
   background: #ffffff;
   border: 1px solid #ddd;
   border-radius: 8px;
-  text-align: justify;
-  min-height: 250px;
+  text-align: center;
+  width: 250%;
 }
 
 .cta-final {
