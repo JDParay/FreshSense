@@ -65,9 +65,8 @@ h1 b {
 
 .info {
   display: flex;
-  flex-direction: column; 
-  padding: 50px 20px;
-  gap: 20px;           
+  justify-content: space-around;
+  padding: 50px 20px;          
 }
 
 .info h2 {
