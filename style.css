@@ -12,6 +12,14 @@ body {
   background-color: #f5f5f5;
 }
 
+.small-title {
+  font-size: 24px;
+  font-weight: normal;
+}
+h1 b {
+  font-size: 48px;
+}
+
 .cta {
   padding: 15px 30px;
   font-size: 1rem;
