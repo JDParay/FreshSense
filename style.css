@@ -36,12 +36,15 @@ body {
   border: 1px solid #ddd;
   border-radius: 8px;
   text-align: center;
-  font-size: 24px;
 }
 
 .feature-card p {
   text-align: justify;
   font-size: 18px;
+}
+
+.feature-card h3 {
+  font-size: 24px;
 }
 
 .visual img {
