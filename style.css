@@ -41,11 +41,10 @@ h1 b {
   flex: 1;
   margin: 0 10px;
   padding: 20px;
-  background: #ffffff;
+  background: #dce3d3;
   border: 1px solid #ddd;
   border-radius: 8px;
   text-align: center;
-  background-color: #dce3d3;
 }
 
 .feature-card p {
@@ -86,13 +85,12 @@ h1 b {
 .info-card {
   width: 30%;
   padding: 20px;
-  background: #ffffff;
+  background: #dce3d3;
   border: 1px solid #ddd;
   border-radius: 8px;
   text-align: justify;
   min-height: 200px;
   flex: unset;
-  background-color: #dce3d3;
 }
 
 .cta-final {
