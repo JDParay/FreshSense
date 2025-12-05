@@ -85,6 +85,7 @@ h1 b {
   border-radius: 8px;
   text-align: justify;
   min-height: 200px;
+  flex: unset;
 }
 
 .cta-final {
