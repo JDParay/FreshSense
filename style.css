@@ -14,10 +14,12 @@ body {
 }
 
 .small-title {
+  font-family: FarmFresh;
   font-size: 24px;
   font-weight: normal;
 }
 h1 b {
+  font-family: FarmFresh;
   font-size: 48px;
 }
 
