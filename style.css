@@ -68,6 +68,13 @@ h1 b {
   padding: 50px 20px;
 }
 
+.info h2 {
+  text-align: center;
+  width: 100%;
+  margin-bottom: 30px;
+  font-size: 2em;
+}
+
 .info-card {
   flex: 1;
   margin: 0 10px;
