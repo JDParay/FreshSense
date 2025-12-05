@@ -87,7 +87,7 @@ h1 b {
   background: #ffffff;
   border: 1px solid #ddd;
   border-radius: 8px;
-  text-align: center;
+  text-align: justify;
   min-height: 200px;
   flex: unset;
 }
