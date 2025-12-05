@@ -38,6 +38,10 @@ body {
   text-align: center;
 }
 
+.feature-card p {
+  text-align: justify;
+}
+
 .visual img {
   width: 100%;
   max-width: 800px;
