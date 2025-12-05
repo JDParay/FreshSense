@@ -77,13 +77,17 @@ h1 b {
   font-size: 2em;
 }
 
+.info h3 {
+  text-align: center;
+}
+
 .info-card {
-  width: 80%;
+  width: 50%;
   padding: 20px;
   background: #ffffff;
   border: 1px solid #ddd;
   border-radius: 8px;
-  text-align: justify;
+  text-align: center;
   min-height: 200px;
   flex: unset;
 }
