@@ -10,7 +10,7 @@ body {
 .hero {
   text-align: center;
   padding: 100px 20px;
-  background-color: #d6e3d0;
+  background-color: #dce3d3;
 }
 
 .small-title {
@@ -45,6 +45,7 @@ h1 b {
   border: 1px solid #ddd;
   border-radius: 8px;
   text-align: center;
+  background-color: #dce3d3;
 }
 
 .feature-card p {
@@ -91,6 +92,7 @@ h1 b {
   text-align: justify;
   min-height: 200px;
   flex: unset;
+  background-color: #dce3d3;
 }
 
 .cta-final {
